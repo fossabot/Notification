@@ -5,6 +5,7 @@
 # Notification
 
 ![Notification banner](https://bracketspace.com/extras/notification/banner.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmbberry%2FNotification.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmbberry%2FNotification?ref=badge_shield)
 
 This is the public repository for Notification - the WordPress plugin.
 
@@ -161,3 +162,7 @@ You can integrate this plugin with your system with a simple white labeling, it'
 ## Development version
 
 You can download build development version from the [Development workflow](https://github.com/BracketSpace/Notification/actions?query=workflow%3ADevelop). Click the latest run and download generated artifact.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmbberry%2FNotification.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmbberry%2FNotification?ref=badge_large)
